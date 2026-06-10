@@ -5,11 +5,14 @@ I’m a Computer Science Engineering student and developer passionate about Arti
 
 With a strong foundation in **Python**, **Java**, and **C++**, I love training robust models, optimizing neural networks, and creating intelligent, data-driven applications that solve complex problems.
 
+### Open To Work
+I am currently open to AI/ML, Deep Learning, Generative AI, and Backend Engineering internship opportunities, where I can contribute to impactful projects while continuing to grow as an engineer.
+
 ### What I Do
-- 🧠 **AI/ML Development:** Building end-to-end RAG pipelines and optimizing Deep Learning models in PyTorch.
-- ⚡ **Backend & APIs:** Designing scalable REST APIs using FastAPI and containerizing applications with Docker.
-- 📊 **Data Engineering:** Managing vector search indexing and working with relational databases like PostgreSQL.
-- 💻 **Algorithmic Problem Solving:** Actively tackling Data Structures and Algorithms challenges to write highly optimized code.
+- **AI/ML Development:** Building end-to-end RAG pipelines and optimizing Deep Learning models in PyTorch.
+- **Backend & APIs:** Designing scalable REST APIs using FastAPI and containerizing applications with Docker.
+- **Data Engineering:** Managing vector search indexing and working with relational databases like PostgreSQL.
+- **Algorithmic Problem Solving:** Actively tackling Data Structures and Algorithms challenges to write highly optimized code.
 
 ### Connect with Me
 - **LinkedIn:** [linkedin.com/in/devansh19](https://linkedin.com/in/devansh19)

@@ -16,10 +16,10 @@ I am currently open to AI/ML, Deep Learning, Generative AI, and Backend Engineer
 
 ### Featured Projects
 
-- **[Nexlytics](https://github.com/devansh519/Nextlytics)** — *AI-Native Data Analytics Platform*  
+- **[Nexlytics](https://github.com/devansh519/Nextlytics)** — *AI Native Data Analytics Platform*  
   Built with **FastAPI**, **LangGraph**, and **Pandas** to execute deterministic data operations and dynamic chart generation from natural language queries. Features end-to-end runtime observability and an evaluation harness with a **0.9722 Faithfulness score** across 156 Pytest suites.
 
-- **[QuickCore](https://github.com/devansh519/Quick_Core)** — *AI-Powered Quick Commerce Operations Platform*  
+- **[QuickCore](https://github.com/devansh519/Quick_Core)** — *Powered Quick Commerce Operations Platform*  
   Engineered a production-oriented backend with **60+ REST endpoints**, Redis caching, RBAC, and dual authentication (Cookie/Bearer tokens). Fully containerized with Docker and verified via **292+ automated tests**.
 
 ### Connect with Me

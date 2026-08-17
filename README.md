@@ -9,10 +9,18 @@ I work across Machine Learning, Generative AI, backend engineering, APIs, databa
 I am currently open to AI/ML, Deep Learning, Generative AI, and Backend Engineering internship opportunities, where I can contribute to impactful projects while continuing to grow as an engineer.
 
 ### What I Do
-- **AI/ML Development:** Building end-to-end AI Agents and RAG pipelines using LangChain and LangGraph.
-- **Backend & APIs:** Designing scalable REST APIs using Node.js, FastAPI and containerizing applications with Docker.
-- **Data Engineering:** Managing vector search indexing and working with relational databases like PostgreSQL and MongoDB.
-- **Algorithmic Problem Solving:** Actively tackling Data Structures and Algorithms challenges to write highly optimized code.
+- **AI/ML & Agentic Systems:** Developing AI agents and RAG pipelines using **LangGraph**, **LangChain**, and **PyTorch**, with runtime observability and automated evaluation using RAGAS.
+- **Scalable Backend Engineering:** Designing modular REST APIs and microservices architectures with **FastAPI**, **Node.js**, and **Express.js**, incorporating **JWT**, **RBAC**, and **Redis** caching.
+- **Database Architecture:** Structuring relational (**PostgreSQL**, **MySQL**) and document-based (**MongoDB**) databases with transaction management, row-level locking, and index optimization.
+- **DevOps & Testing:** Containerizing environments with **Docker** / **Docker Compose** and enforcing code reliability via automated testing suites (**Pytest**, **Jest**, **Supertest**).
+
+### Featured Projects
+
+- **[Nexlytics](https://github.com/devansh519/Nextlytics)** — *AI-Native Data Analytics Platform*  
+  Built with **FastAPI**, **LangGraph**, and **Pandas** to execute deterministic data operations and dynamic chart generation from natural language queries. Features end-to-end runtime observability and an evaluation harness with a **0.9722 Faithfulness score** across 156 Pytest suites.
+
+- **[QuickCore](https://github.com/devansh519/Quick_Core)** — *AI-Powered Quick Commerce Operations Platform*  
+  Engineered a production-oriented backend with **60+ REST endpoints**, Redis caching, RBAC, and dual authentication (Cookie/Bearer tokens). Fully containerized with Docker and verified via **292+ automated tests**.
 
 ### Connect with Me
 - **LinkedIn:** [linkedin.com/in/devansh19](https://linkedin.com/in/devansh19)
